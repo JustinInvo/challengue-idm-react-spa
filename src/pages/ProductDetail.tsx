@@ -35,7 +35,7 @@ export const ProductDetail = () => {
 
         <LongDescription>{product.longDescription}</LongDescription>
 
-        <BackButton to="/">← Volver al Home</BackButton>
+        <BackButton to="/">Volver al Home</BackButton>
       </Card>
     </Wrapper>
   );
